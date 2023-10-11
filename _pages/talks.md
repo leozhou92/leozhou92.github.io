@@ -1,9 +1,13 @@
 ---
 layout: single
 author_profile: true
+permalink: /talks/
+title: 
 ---
 
-## Some Publicly Available Recorded Talks
+
+
+### Some Publicly Available Recorded Talks
 
 - Performance and limitations of the QAOA at constant levels on large sparse hypergraphs and spin glass models
 -- [video](https://youtu.be/w_xWoMnRFT8) (TQC, July 2023)

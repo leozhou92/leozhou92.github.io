@@ -146,8 +146,15 @@
 
 
 .avatar__wrapper {
-  width:auto;
-  margin:0 auto;
+  display: table-cell;
+  vertical-align: top;
+  width: 72px;
+  height: 72px;
+
+  @include breakpoint($large) {
+    width:auto;
+    margin:0 auto;
+  }
 }
 
 .author__content {
