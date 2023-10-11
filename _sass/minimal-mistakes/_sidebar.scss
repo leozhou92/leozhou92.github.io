@@ -123,8 +123,7 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: top;
-  width: 36px;
+  width: 72px;
 
   @include breakpoint($large) {
     width: auto;
@@ -194,7 +193,6 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
-  vertical-align: top;
 }
 
 .author__bio {
@@ -210,6 +208,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
+  float: left;
   font-family: $sans-serif;
   z-index: 20;
   cursor: pointer;
