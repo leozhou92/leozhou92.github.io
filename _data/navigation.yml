@@ -4,7 +4,9 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: CV
+  - title: "Talks"
+    url: /talks/
+  - title: "CV"
     url: /assets/files/cv_leozhou_2023.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
