@@ -112,15 +112,16 @@ author:
   email            :
   links:
     - label: Curriculum Vitae PDF
-      icon: 
+      icon: "fas fa-file-pdf"
       url: /assets/files/cv_leozhou_2023.pdf
-    - label: "leozhou at caltech dot edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:leozhou@caltech.edu"
     - label: "Publications on arXiv"
       icon: "fas fa-fw fa-link"
       url: "https://bit.ly/3NV1FnA"
     - label: "Google Scholar"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=rUcRJEkAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -134,25 +135,25 @@ author:
 
 # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     # url:
+  #   - label: "Facebook"
+  #     icon: "fab fa-fw fa-facebook-square"
+  #     # url:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     # url:
+  #   - label: "GitLab"
+  #     icon: "fab fa-fw fa-gitlab"
+  #     # url:
+  #   - label: "Bitbucket"
+  #     icon: "fab fa-fw fa-bitbucket"
+  #     # url:
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     # url:
 
 
 # Reading Files
@@ -285,13 +286,13 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: 
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
 
 
