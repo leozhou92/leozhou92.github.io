@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: index.html
+    url: /
   - title: "Research"
-    url: research.html
+    url: /research/
   - title: CV
-    url: cv_leozhou_2023.pdf
+    url: /assets/files/cv_leozhou_2023.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
