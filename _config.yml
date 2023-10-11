@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/img/headshot.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,15 +108,15 @@ author:
   name             : "Leo Zhou"
   avatar           : /assets/img/headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DuBridge Postdoctoral Scholar at Caltech"
-  location         : "Pasadena, CA"
+  location         : 
   email            :
   links:
     - label: Curriculum Vitae PDF
       icon: 
       url: /assets/files/cv_leozhou_2023.pdf
-    - label: "Email"
+    - label: "leozhou at caltech dot edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:leozhou92@gmail.com"
+      url: "mailto:leozhou@caltech.edu"
     - label: "Publications on arXiv"
       icon: "fas fa-fw fa-link"
       url: "https://bit.ly/3NV1FnA"
@@ -285,9 +285,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: 
     values:
-      # layout: single
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
