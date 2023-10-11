@@ -157,9 +157,11 @@
   }
 
   img {
+    max-width: 110px;
 
     @include breakpoint($large) {
       padding: 5px;
+      max-width: 400px;
     }
   }
 
