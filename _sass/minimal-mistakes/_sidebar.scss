@@ -123,7 +123,7 @@
 
 .author__avatar {
   display: table-cell;
-  width: 72px;
+  width: 50px;
 
   @include breakpoint($large) {
     width: auto;
