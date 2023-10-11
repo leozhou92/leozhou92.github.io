@@ -20,7 +20,7 @@ title                    : "Leo Zhou"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Leo Zhou"
-description              : "Personal Homepage"
+description              : "Personal Homepage of Leo Zhou | quantum computing scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-S9DC52SWQ0
     anonymize_ip         : # true, false (default)
 
 
