@@ -3,6 +3,11 @@ title: Leo Zhou
 description: 
 logo: /assets/img/headshot.jpg
 
+show_downloads: true
+cv: /assets/files/cv_leozhou_2023.pdf
+arXiv: https://bit.ly/3NV1FnA
+gscholar: https://scholar.google.com/citations?user=rUcRJEkAAAAJ
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
