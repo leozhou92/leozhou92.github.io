@@ -190,11 +190,6 @@
   font-family: $sans-serif;
   font-size: $type-size-5;
   vertical-align: top;
-
-  @include breakpoint($large) {
-    font-family: $sans-serif;
-    font-size: $type-size-3;
-  }
 }
 
 .author__bio {
