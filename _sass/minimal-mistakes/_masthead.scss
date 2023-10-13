@@ -50,7 +50,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
-  font-family: "Garamond", serif;
+  font-family: "Courier New", monospace;
   font-size: $type-size-2;
   // z-index: 20;
 }
@@ -87,7 +87,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-family: "Garamond", serif;
+  font-family: "Courier New", monospace;
   font-size: $type-size-3;
 
   &--lg {
