@@ -16,7 +16,7 @@ title: Talks
 	- [video](https://youtu.be/aJ_qLtc85pg) (Invited talk at the [NISQAH](https://nisqah2023.huji.ac.il/) 2023 conference, June 2023) 
 
 - The QAOA at High Depth for MaxCut on Large-Girth Regular Graphs and the SK Model
-	- [video](https://youtu.be/aJ_qLtc85pg) (Outstanding Paper Award talk at TQC, July 2022)
+	- [video](https://youtu.be/yYmwfEYtKO4?t=4062) (Outstanding Paper Award talk at TQC, July 2022)
 
 - Complexity, Algorithms, and Applications of Programmable Quantum Many-Body Systems 
 	- [video](https://youtu.be/SDAo4lWXbeA) (Harvard PhD defense, May 2021)
