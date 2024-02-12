@@ -112,11 +112,11 @@ author:
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-file-pdf"
-      url: /assets/files/cv_leozhou_2023.pdf
+      url: /assets/files/cv_leozhou.pdf
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:leozhou@caltech.edu"
-    - label: "arXiv Publications"
+    - label: "Publications on arXiv"
       icon: "fas fa-fw fa-link"
       url: "https://bit.ly/3NV1FnA"
     - label: "Google Scholar"
