@@ -9,6 +9,9 @@ title: Talks
 
 ### Some Publicly Available Recorded Talks
 
+- Local minima in quantum systems
+	- [video](https://youtu.be/-cHfyHHO_30) (QIP, Jan 2024)
+
 - Performance and limitations of the QAOA at constant levels on large sparse hypergraphs and spin glass models
 	- [video](https://youtu.be/w_xWoMnRFT8) (TQC, July 2023)
 
